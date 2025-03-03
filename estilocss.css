@@ -1,0 +1,45 @@
+.bg-beige-2 {
+    background-color: #FAEDCD;
+}
+.beige {
+}
+.bg-tayback1 {
+    background-image: url(img/back1.jpg);
+    background-size: cover;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+}
+.btn-beige3 {
+    background-color: #FEFAE0;
+}
+.bg-background {
+    background-color: #F4F2EA;
+}
+.bg-back2 {
+    background-image: url(img/back2.jpg);
+    background-size: cover;
+    background-position: 0% 12%;
+}
+.bg-beige3 {
+    background-color: #D4A373;
+}
+.bg-reputation {
+    background-image: url(img/rep3.jpg);
+    background-size: cover;
+}
+.bg-red {
+    background-image: url(img/red4.jpg);
+    background-size: cover;
+}
+.bg-ttpd {
+    background-image: url(img/ttpd4.jpg);
+    background-size: cover;
+}
+.bg-red {
+}
+
+
+@media screen{
+}
+.bag-red {
+}
